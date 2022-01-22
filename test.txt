@@ -34,3 +34,13 @@ Now it will also be visible in main branch on Github.
 Okay so what Netlify is doing is it is only updating the changes made in the main branch. 
 So your site won't be deployed until changes are pushed to main branch. 
 Push request to main branch and then automatically all deployable files will be deployed. 
+
+Working in main branch is easy. 
+Write it in main branch, commit it, push it and it will be live on Github and subsequently published on sites like Netlify if the site is deployed for web preview. 
+
+Working in branch is not easy. 
+First you write in local pc. 
+Then you push that new branch with new changes. 
+Then you review them online and create a pull it to main request. 
+Onced you create a pull request, you can view the changes and confirm if it ready to merge, if not ask them to make changes and push the code again. 
+Once you are satisfied, you can merge the request. It will then merge with main code and subsequently deploy if continuous deployment is enabled. 
