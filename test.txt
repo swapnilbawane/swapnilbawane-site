@@ -44,3 +44,25 @@ Then you push that new branch with new changes.
 Then you review them online and create a pull it to main request. 
 Onced you create a pull request, you can view the changes and confirm if it ready to merge, if not ask them to make changes and push the code again. 
 Once you are satisfied, you can merge the request. It will then merge with main code and subsequently deploy if continuous deployment is enabled. 
+
+GIST: 
+In branch we first make a branch.
+Push branch to github cloud. 
+Next you open the code in VS Code. Edit it now. 
+After all the editing now you commit your message. Saving and commiting is different. Saving is saving in the local client like VS Code. Committing is committing to code base. 
+After commiting or finalizing the message, now you want this to go to github. So you say please pull this code from bottom that is machine to cloud that is Github. 
+So create a pull request. 
+Once the code is pulled. 
+
+if you are working on main branch - save - commit with description - push to cloud github. 
+if you are working on new branch other than main - push branch - save - commit with description - pull request to cloud github - merge request - now go to main and pull origin or pull from cloud back to client. 
+it is called pull request because the code that is sent to cloud has to pulled after request. 
+The pull request pushes the code from the branch on client side to branch on cloud side. 
+Once there you can review the code and see if there is any changes to be done. if no changes then proceed to merge. You do this by clicking on confirm merge. 
+Once you create a pull request it will tell you if there are any conflicts. If there are no conflicts then click on confirm merge or you can comment on any conflicts to be taken care of. 
+Confirm merge will now seal that branch ready to be merged to the main. But wait. Confirm merge does not merge to the main branch yet. 
+Confirm merge merely makes it ready to be integrated to main branch. 
+Now you need to go to main branch and pull origin to complete the pull request. 
+
+This is the reason why pushing the code to cloud in a branch is called pull request. because eventually the code has to be pulled to the main branch from the cloud. 
+Whereas in main branch you simply push the code to cloud. 
