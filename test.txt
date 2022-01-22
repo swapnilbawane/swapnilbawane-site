@@ -30,4 +30,7 @@ Check the pushed content in server. Confirm if it is okay merge it.
 Merge request into main. 
 Pull that merged content into local branch. 
 Now it will also be visible in main branch on Github. 
- 
+
+Okay so what Netlify is doing is it is only updating the changes made in the main branch. 
+So your site won't be deployed until changes are pushed to main branch. 
+Push request to main branch and then automatically all deployable files will be deployed. 
