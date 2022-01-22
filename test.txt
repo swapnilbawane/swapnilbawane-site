@@ -1,8 +1,8 @@
 This is shortcuts
 show/hide terminal : Ctrl + `
-show/hide sidebar 
-open file
-command pallete ctrl + pallete
+show/hide sidebar Ctrl + B 
+open file Ctrl + P
+command pallete ctrl + shift + P or Ctrl + P + > 
 jump to line number ctrl+pallete+:
-jump to symbol ctrl+pallete+@
+jump to symbol ctrl+pallete+@ - jump to head, body of html file
 toggle wrap Alt + Z for multi window settings 
