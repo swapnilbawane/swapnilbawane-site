@@ -6,3 +6,18 @@ command pallete ctrl + shift + P or Ctrl + P + >
 jump to line number ctrl+pallete+:
 jump to symbol ctrl+pallete+@ - jump to head, body of html file
 toggle wrap Alt + Z for multi window settings 
+
+You create a branch. This is a diversion or let's say a test thing. This you do it on your PC. You create a branch in Github desktop. 
+Now that you have created a diversion. Let's start writing things to test in this diversion. 
+Let's go to VS code and now you update it in local html file. 
+I am now here and updating Local html file. 
+Till now only a branch is created on my local system but not visible for others to see. 
+After adding some details in local system let me push it for others to see that changes in Github online.
+So now let's commit to changes after saving it in local html file. 
+After I commit to changes, as a standard practice I need to push it for others to see and review. 
+So now I committed it with commit description as let's say added new movies. 
+Now committing code is like adding a layer. You can let's say always undo it. But by undo instead of undoing whole project it will only undo what is commited. This way if somethings do not work out you can revert back to what was working before. 
+Now that code is ready to push. 
+Then you push it to the server to Github for others to see. 
+Now if you go to Github you can review the changes made in the new branch. 
+Review the change and merge request. 
