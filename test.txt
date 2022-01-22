@@ -1,0 +1,8 @@
+This is shortcuts
+show/hide terminal : Ctrl + `
+show/hide sidebar 
+open file
+command pallete ctrl + pallete
+jump to line number ctrl+pallete+:
+jump to symbol ctrl+pallete+@
+toggle wrap Alt + Z for multi window settings 
